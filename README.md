@@ -1,1 +1,3 @@
-# Tugas-Machine-Learning-Bab-3
+Nama: Robi Septian Subhan
+NPM : G1A023060
+Tugas MACHINE LEARNING ANALISIS CH 3 UNSUPERVISED
